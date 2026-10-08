@@ -1,2 +1,2 @@
-Hello World!
-My Name is Ivan
+Здравствуй, Мир!
+Меня зовут Иван
